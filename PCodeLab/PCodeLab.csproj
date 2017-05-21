@@ -221,6 +221,8 @@
     <Content Include="Resources\Emil_Trebicka_CV_EN.pdf" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\pcodelab - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\pcodelab - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\pcodelab.pubxml" />
   </ItemGroup>
   <PropertyGroup>

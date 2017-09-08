@@ -953,3 +953,11 @@ textarea:focus {
         color: #fff;
         text-decoration: none;
     }
+
+.padding-monitor {
+    padding-top: 50px !important;
+}
+
+#sqlazuremonitor {
+    border: 1px solid #ccc;
+}

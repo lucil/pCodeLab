@@ -153,6 +153,7 @@
     <Content Include="images\portfolio-img-2.jpg" />
     <Content Include="images\remedia_back.jpg" />
     <Content Include="images\res_back.jpg" />
+    <Content Include="images\sqlazuremonitor_logo.png" />
     <Content Include="images\t-img-1%402x.jpg" />
     <Content Include="images\t-img-1.jpg" />
     <Content Include="js\bootstrap.min.js" />

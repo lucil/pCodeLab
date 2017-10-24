@@ -225,6 +225,7 @@
     <None Include="Properties\PublishProfiles\pcodelab - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\pcodelab - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\pcodelab.pubxml" />
+    <None Include="Properties\PublishProfiles\pcodelab_filesystem.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
